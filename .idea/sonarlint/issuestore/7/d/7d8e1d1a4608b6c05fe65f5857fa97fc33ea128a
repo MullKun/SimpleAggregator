@@ -1,6 +1,6 @@
 
-Dsquid:S1170"!Make this final field static too.(ÜíÿÐùÿÿÿÿ8‹­¦“Š.
 osquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÔÆÄüüÿÿÿÿ8½´Š‘Š.
-tsquid:S00116"PRename this field "VALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¶¼Òûÿÿÿÿ8‹­¦“Š.
 Dsquid:S1170"!Make this final field static too.(ï¶¼Òûÿÿÿÿ8‹­¦“Š.
+tsquid:S00116"PRename this field "VALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¶¼Òûÿÿÿÿ8‹­¦“Š.
 rsquid:S00116"NRename this field "KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜíÿÐùÿÿÿÿ8‹­¦“Š.
+Dsquid:S1170"!Make this final field static too.(ÜíÿÐùÿÿÿÿ8‹­¦“Š.
